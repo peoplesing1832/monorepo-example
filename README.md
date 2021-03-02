@@ -1,7 +1,7 @@
 # monorepo
 ## 什么是monorepo？
 
-monorepo是一种软件开发策略，需要项目的代码存储在同一个`repo`中。
+monorepo是一种软件开发策略，多个项目的代码存储在同一个`repo`中。
 ## 什么是multirepo？
 
 multirepo与monorepo相反, 是多`repo`模式。
