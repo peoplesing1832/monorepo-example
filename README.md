@@ -79,9 +79,6 @@ packageB项目的`package.json`如下:
 
 ## 参考
 
-- https://en.wikipedia.org/wiki/Monorepo
-- https://juejin.cn/post/6901665019927527431
-- https://juejin.cn/post/6903330914550415373
-- https://juejin.cn/post/6855129007185362952
-- https://juejin.cn/post/6844903842597830669
-- https://juejin.cn/post/6866748110644822023#heading-1
+- [monorepo wiki](https://en.wikipedia.org/wiki/Monorepo)
+- [lerna 和 yarn 实现 monorepo](https://juejin.cn/post/6855129007185362952)
+
